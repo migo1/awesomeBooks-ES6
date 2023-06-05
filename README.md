@@ -7,7 +7,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -51,18 +50,12 @@
 - **Add-books**
 - **Display-books**
 - **Remove-books**
+- **luxton-dateTime**
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://migo1.github.io/awesomeBooks/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -80,7 +73,7 @@ In order to run this project you need:
 
 - Clone this repository to your desired folder with the following commend
 ```
-git clone git@github.com:migo1/awesomeBooks/create-acess-book-object-js.git
+git clone https://github.com/migo1/awesomeBooks-ES6.git
 ```
 
 
@@ -88,33 +81,27 @@ git clone git@github.com:migo1/awesomeBooks/create-acess-book-object-js.git
 
 - Type cd 
 ```
-awesomeBooks
+awesomeBooks-ES6
 ```
-- open index.html file in the browser
+- use live server to start the application
 
 ### Usage
 
 - To run the project, execute the following command:
-  - Type cd ```awesomeBooks ```
-  - open index.html file in the browser
+  - Type cd ```awesomeBooks-ES6 ```
+  - use live server to start the application
 
 ### Run tests
 
 - To run tests, run the following command:
 - npx eslint .
-
+- npx stylelint "**/*.{css,scss}"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-👤 **Ansar Ibrahim**
-
-- GitHub: [Ansar Ibrahim](https://github.com/AnsarIbrahim)
-- Twitter: [Ansar Ibrahim](https://twitter.com/ansaradheeb)
-- LinkedIn: [Ansar Ibrahim](https://linkedin.com/in/ansar-ibrahim-61447424a/)
 
 👤 **Robert Migot**
 
@@ -140,7 +127,7 @@ awesomeBooks
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/migo1/awesomeBooks/issues).
+Feel free to check the [issues page](https://github.com/migo1/awesomeBooks-ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +146,7 @@ Feel free to check the [issues page](https://github.com/migo1/awesomeBooks/issue
 
 - I would like to thank following
   - MicroVerse 
-  - My coding partner[Ansar Ibrahim]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
